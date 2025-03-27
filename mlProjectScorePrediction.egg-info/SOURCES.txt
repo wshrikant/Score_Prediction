@@ -1,0 +1,7 @@
+setup.py
+mlProjectScorePrediction.egg-info/PKG-INFO
+mlProjectScorePrediction.egg-info/SOURCES.txt
+mlProjectScorePrediction.egg-info/dependency_links.txt
+mlProjectScorePrediction.egg-info/requires.txt
+mlProjectScorePrediction.egg-info/top_level.txt
+src/__init__.py

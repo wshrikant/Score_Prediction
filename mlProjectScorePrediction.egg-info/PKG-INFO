@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: mlProjectScorePrediction
+Version: 0.0.1
+Author: shrikant
+Author-email: wshrikant2@gmail.com
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
